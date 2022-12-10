@@ -3,7 +3,7 @@ print("press 1:if you want unequal pieces")
 print("press 2:if you want equal pieces")
 ch=input()
 n=int(input("Enter the number of pieces you want:"))
-
+''' Superb'''
 if ch=="1":
     print("press 1:if you want each piece to be of different size")
     print("press 2:if you want pieces of different size but some can be of same aswell")
